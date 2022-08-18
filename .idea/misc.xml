@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Cat/Documents/Android/MiuiGlobalSidebar/app/src/main/res/layout/activity_main.xml" value="0.23641304347826086" />
+        <entry key="..\:/Cat/Documents/Android/MiuiGlobalSidebar/app/src/main/res/layout/window_main.xml" value="0.23641304347826086" />
+        <entry key="..\:/Cat/Documents/Android/MyApplication/app/src/main/res/drawable/fw_bg.xml" value="0.1205" />
+        <entry key="..\:/Cat/Documents/Android/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Cat/Documents/Android/MyApplication/app/src/main/res/layout/main_recycler1_item.xml" value="0.23641304347826086" />
+        <entry key="..\:/Cat/Documents/Android/MyApplication/app/src/main/res/layout/window0.xml" value="0.1721311475409836" />
+        <entry key="..\:/Cat/Documents/Android/MyApplication/app/src/main/res/layout/window_hint.xml" value="0.23641304347826086" />
+        <entry key="..\:/Cat/Documents/Android/MyApplication/app/src/main/res/layout/window_icon.xml" value="0.23641304347826086" />
+        <entry key="..\:/Cat/Documents/Android/MyApplication/app/src/main/res/layout/window_main.xml" value="0.176" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
